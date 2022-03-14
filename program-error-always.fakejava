@@ -1,0 +1,9 @@
+def main() {
+  // this program should always generate an error
+  // it should never load and certainly never 'execute'
+}
+
+def foo() {
+  int[] a = new int[3);
+}
+

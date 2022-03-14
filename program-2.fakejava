@@ -1,0 +1,42 @@
+def main() {
+  print "in this bogus programming language,"
+  print "each print statement takes 1 tick to execute."
+  print "thus many lines means longer"
+  print "methods"
+  int[] array = new int[6];
+  f2();
+  print "which isn't really the case..."
+  f3();
+}
+
+def f2() {
+  f3();
+  f4();
+  f4();
+}
+
+def f3() {
+  print "short method"
+}
+
+def f4() {
+  print "also"
+  f5();
+  print "a short method"
+}
+
+def f5() {
+  print "I'm"
+  print "making"
+  print "this"
+  print "method"
+  print "take"
+  print "a"
+  print "really"
+  print "long"
+  print "time"
+  print "to"
+  print "execute"
+  print "so"
+  print "there!"
+}

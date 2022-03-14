@@ -1,0 +1,13 @@
+def main() {
+  //this is a program
+  //that should not 
+  //pass at first (because it has mismatched
+  // { ], but only within comments.
+  foobar();
+  // otherwise it makes a fun simulation. 
+}
+
+def foobar() {
+  // note the recursive call....
+  main();
+}

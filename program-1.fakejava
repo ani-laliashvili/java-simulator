@@ -1,0 +1,18 @@
+def main() {
+  print "simple test program"
+  print "if you write the print statements properly,"
+  first_method();
+  print "status message window
+  print "Kind of"
+  second_method();
+  print "huh?"
+}
+
+def first_method() {
+  print "you can tell a little story"
+  print "within the simulator's"
+}
+
+def second_method() {
+  print "neat,"
+}
