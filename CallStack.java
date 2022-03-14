@@ -1,7 +1,7 @@
 /**
 * This class simulates memory.  
 *
-* @author Ani Laliashvili @author Sarah Gregory
+* @author Ani Laliashvili
 */
 
 public class CallStack extends CircularArrayDequeImplementation<Method> {
